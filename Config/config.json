@@ -1,0 +1,54 @@
+{
+    "LabVIEW.ini": [
+        {
+            "section": "LabVIEW",
+            "key": "server.viscripting.showScriptingOperationsInEditor",
+            "value": true
+        },
+        {
+            "section": "LabVIEW",
+            "key": "FancyFPTerms",
+            "value": false
+        },
+        {
+            "section": "LabVIEW",
+            "key": "autoInsertFeedbackNode",
+            "value": false
+        },
+        {
+            "section": "LabVIEW",
+            "key": "DefaultLabelPositionBD",
+            "value": 11
+        },
+        {
+            "section": "LabVIEW",
+            "key": "DefaultLabelPositionIndBD",
+            "value": 5
+        },
+        {
+            "section": "LabVIEW",
+            "key": "SnapGridDrawAsLines",
+            "value": 2
+        },
+        {
+            "section": "LabVIEW",
+            "key": "server.tcp.enabled",
+            "value": true
+        }
+    ],
+    "VIPM": {
+        "official-packages": [
+            "OpenG Toolkit",
+            "PaneRelief",
+            "JKI JSON",
+            "JKI HTTP REST",
+            "JKI Flat UI Controls 2.0",
+            "AntiDoc",
+            "AntiDoc Add-on - LabVIEW project documentation",
+            "Asciidoc for LabVIEW"
+        ],
+        "unofficial-package-urls":[
+            "toto.com"
+        ]
+    }
+}
