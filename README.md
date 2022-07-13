@@ -30,6 +30,9 @@ This section describes keys modified by the script.
 ### 3. VIPM
 
 * OpenG Toolkit
+* MGI Library
+* MGI Tools
+* MGI Panel Manager
 * PaneRelief
 * JKI JSON
 * JKI HTTP REST
